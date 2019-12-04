@@ -209,3 +209,6 @@ export default {
 }
 ```
 注意：在新建本文件再次进行`npm run dev`后会提示`config.js与.umirc.js两者只能存在一个`，因此暂时屏蔽，覆盖默认样式也没有看到实际效果。
+
+
+源码仓库地址： https://github.com/liangfenggithub/antd_course.git
